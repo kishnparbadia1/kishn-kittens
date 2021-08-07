@@ -1,0 +1,6 @@
+/* when you add a styles.css file this where express static comes in handy */
+
+body{
+    font-family: verdana;
+    padding: 3rem;
+};
